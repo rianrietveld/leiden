@@ -653,6 +653,10 @@ img.alignright,
 	margin-bottom: 2rem;
 }
 
+.breadcrumb a {
+	text-decoration: underline;
+}
+
 .archive-description,
 .author-box {
 	background-color: #fff;
