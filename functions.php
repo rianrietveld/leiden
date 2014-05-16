@@ -5,9 +5,7 @@ include_once( get_template_directory() . '/lib/init.php' );
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Leiden' );
 define( 'CHILD_THEME_URL', 'http://genesis-accessible.org/' );
-define( 'CHILD_THEME_VERSION', '0.1.0' );
-
-
+define( 'CHILD_THEME_VERSION', '1.0.0' );
 
 //* Add HTML5 markup structure
 add_theme_support( 'html5' );
